@@ -8,25 +8,45 @@ Smodin uses a number of open source projects to work properly:
 ## Folder Structure
 
 ├── node_modules (.gitignore)
+
 ├── public
+
 │   ├── favicon.ico
+
 │   ├── index.html
+
 │   └── manifest.json
+
 ├── src
+
 │   ├── components
+
 │   │   ├──  Header.tsx
+
 │   │   └── Ratings.tsx
+
 │   ├── mocks
+
 │   │   └── essays.ts
+
 │   ├── App.css
+
 │   ├── App.tsx
+
 │   │── App.test.tsx
+
 │   ├── index.css
+
 │   ├── index.tsx
+
 │   └── setupTests.ts
+
 ├── .gitignore
+
 ├── package.json
+
 └── README.md
+
 └── yarn.lock
 
 ## Installation
